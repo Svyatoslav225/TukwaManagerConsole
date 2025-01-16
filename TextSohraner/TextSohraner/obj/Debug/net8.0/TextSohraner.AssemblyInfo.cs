@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextSohraner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea2571ea182db2982d0889840e097616c6febbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextSohraner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextSohraner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

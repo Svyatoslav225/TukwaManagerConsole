@@ -12,3 +12,4 @@ D:\TextSohraner\TextSohraner\obj\Debug\net8.0\refint\TextSohraner.dll
 D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.pdb
 D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.genruntimeconfig.cache
 D:\TextSohraner\TextSohraner\obj\Debug\net8.0\ref\TextSohraner.dll
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.sourcelink.json
