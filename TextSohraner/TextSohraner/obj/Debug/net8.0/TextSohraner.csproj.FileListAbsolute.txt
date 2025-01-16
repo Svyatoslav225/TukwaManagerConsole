@@ -1,0 +1,14 @@
+D:\TextSohraner\TextSohraner\bin\Debug\net8.0\TextSohraner.exe
+D:\TextSohraner\TextSohraner\bin\Debug\net8.0\TextSohraner.deps.json
+D:\TextSohraner\TextSohraner\bin\Debug\net8.0\TextSohraner.runtimeconfig.json
+D:\TextSohraner\TextSohraner\bin\Debug\net8.0\TextSohraner.dll
+D:\TextSohraner\TextSohraner\bin\Debug\net8.0\TextSohraner.pdb
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.GeneratedMSBuildEditorConfig.editorconfig
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.AssemblyInfoInputs.cache
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.AssemblyInfo.cs
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.csproj.CoreCompileInputs.cache
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.dll
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\refint\TextSohraner.dll
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.pdb
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\TextSohraner.genruntimeconfig.cache
+D:\TextSohraner\TextSohraner\obj\Debug\net8.0\ref\TextSohraner.dll
